@@ -1,0 +1,22 @@
+<projectDescription>
+  <id>1338991748457</id>
+  <name>FlashCardioFace</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///ssd/Users/feiwang/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///ssd/Users/feiwang/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///ssd/Users/feiwang/flash_workspace/FlashCardioFace/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="index.template.html">file:///ssd/Users/feiwang/flash_workspace/FlashCardioFace/html-template/index.template.html</uri>
+    <uri label="FlashCardioFace.html">file:///ssd/Users/feiwang/flash_workspace/FlashCardioFace/flash/FlashCardioFace.html</uri>
+    <uri label="CardioFace.fla">file:///ssd/Users/feiwang/flash_workspace/FlashCardioFace/src/CardioFace.fla</uri>
+    <uri label="FlashCardioFace.as">file:///ssd/Users/feiwang/flash_workspace/FlashCardioFace/src/FlashCardioFace.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
